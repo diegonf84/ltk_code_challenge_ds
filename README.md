@@ -4,7 +4,7 @@ Challenge submission for Senior Data Scientist position. Predictive model for e-
 
 ## Files
 
-- `frigerio_diego_challenge.ipynb` - Complete analysis and model development
+- `frigerio_diego_challenge.ipynb` - Complete analysis
 - `summary.md` - Executive summary with deployment recommendations
 - `xgboost_model.pkl` - Trained model artifact
 - `requirements.txt` - Python dependencies
